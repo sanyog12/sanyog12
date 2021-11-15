@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on internet
-- 📫 How to reach me ...
+- 📫 How to reach me sanyogvm9@gmail.com
 
 <!---
 sanyog12/sanyog12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
